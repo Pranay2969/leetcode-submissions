@@ -10,6 +10,7 @@ My LeetCode.com problem submissions
 | [0014-longest-common-prefix](https://github.com/Pranay2969/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ My LeetCode.com problem submissions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
