@@ -32,4 +32,8 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Pranay2969/leetcode-submissions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
