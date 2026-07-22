@@ -11,6 +11,7 @@ My LeetCode.com problem submissions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranay2969/leetcode-submissions/tree/master/0007-reverse-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
