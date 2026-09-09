@@ -15,6 +15,7 @@ My LeetCode.com problem submissions
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -24,6 +25,7 @@ My LeetCode.com problem submissions
 | [0001-two-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
