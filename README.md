@@ -11,6 +11,7 @@ My LeetCode.com problem submissions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -84,4 +85,12 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranay2969/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
