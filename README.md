@@ -33,6 +33,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranay2969/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Pranay2969/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -93,4 +94,12 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
