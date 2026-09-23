@@ -17,6 +17,7 @@ My LeetCode.com problem submissions
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -81,6 +82,7 @@ My LeetCode.com problem submissions
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
@@ -98,6 +100,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
