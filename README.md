@@ -13,6 +13,7 @@ My LeetCode.com problem submissions
 | [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0001-two-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranay2969/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -66,6 +68,7 @@ My LeetCode.com problem submissions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
 ## Enumeration
@@ -95,6 +98,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,4 +113,12 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
