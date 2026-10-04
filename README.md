@@ -14,6 +14,7 @@ My LeetCode.com problem submissions
 | [0027-remove-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Pranay2969/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pranay2969/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0015-3sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Pranay2969/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pranay2969/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -138,6 +140,7 @@ My LeetCode.com problem submissions
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Pranay2969/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pranay2969/leetcode-submissions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
