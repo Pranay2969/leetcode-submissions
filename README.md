@@ -18,6 +18,7 @@ My LeetCode.com problem submissions
 | [0057-insert-interval](https://github.com/Pranay2969/leetcode-submissions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Pranay2969/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -118,6 +119,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
