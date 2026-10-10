@@ -17,6 +17,7 @@ My LeetCode.com problem submissions
 | [0056-merge-intervals](https://github.com/Pranay2969/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Pranay2969/leetcode-submissions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Pranay2969/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Pranay2969/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
@@ -35,6 +36,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0001-two-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranay2969/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Pranay2969/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pranay2969/leetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -151,4 +153,8 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pranay2969/leetcode-submissions/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pranay2969/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
