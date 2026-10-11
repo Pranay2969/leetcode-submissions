@@ -49,6 +49,7 @@ My LeetCode.com problem submissions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranay2969/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Pranay2969/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Pranay2969/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
@@ -124,18 +125,21 @@ My LeetCode.com problem submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Pranay2969/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 ## Counting
 |  |
 | ------- |
