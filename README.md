@@ -31,6 +31,7 @@ My LeetCode.com problem submissions
 | [1480-running-sum-of-1d-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
