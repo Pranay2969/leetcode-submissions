@@ -74,12 +74,14 @@ My LeetCode.com problem submissions
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranay2969/leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Pranay2969/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Pranay2969/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -163,4 +165,8 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranay2969/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Pranay2969/leetcode-submissions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
