@@ -73,6 +73,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranay2969/leetcode-submissions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Pranay2969/leetcode-submissions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Pranay2969/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
@@ -168,5 +169,6 @@ My LeetCode.com problem submissions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Pranay2969/leetcode-submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Pranay2969/leetcode-submissions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
