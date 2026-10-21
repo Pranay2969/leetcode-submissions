@@ -13,6 +13,7 @@ My LeetCode.com problem submissions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Pranay2969/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pranay2969/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Pranay2969/leetcode-submissions/tree/master/0057-insert-interval) |
@@ -37,6 +38,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0001-two-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranay2969/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Pranay2969/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranay2969/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -51,6 +53,7 @@ My LeetCode.com problem submissions
 | [0014-longest-common-prefix](https://github.com/Pranay2969/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Pranay2969/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pranay2969/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/Pranay2969/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 ## Trie
@@ -91,6 +94,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0015-3sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Pranay2969/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pranay2969/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pranay2969/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
