@@ -41,6 +41,7 @@ My LeetCode.com problem submissions
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pranay2969/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pranay2969/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
@@ -50,6 +51,7 @@ My LeetCode.com problem submissions
 | [0014-longest-common-prefix](https://github.com/Pranay2969/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Pranay2969/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/Pranay2969/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
@@ -94,6 +96,7 @@ My LeetCode.com problem submissions
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pranay2969/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pranay2969/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
