@@ -58,6 +58,7 @@ My LeetCode.com problem submissions
 | [0020-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pranay2969/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Pranay2969/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Pranay2969/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/Pranay2969/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 ## Trie
@@ -72,6 +73,7 @@ My LeetCode.com problem submissions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Pranay2969/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Pranay2969/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/Pranay2969/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
