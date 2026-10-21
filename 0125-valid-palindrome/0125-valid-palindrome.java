@@ -1,5 +1,6 @@
 class Solution {
     public boolean isPalindrome(String s) {
+        s = s.toLowerCase();
         int i = 0, j = s.length() - 1;
         while(i < j) {
             char left = s.charAt(i);
@@ -10,7 +11,7 @@ class Solution {
             } else if(!Character.isLetterOrDigit(right)) {
                 j--;
             } else {
-                if(Character.toLowerCase(left) != Character.toLowerCase(right)) {
+                if(left != right) {
                     return false;
                 }
                 i++;
