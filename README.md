@@ -27,6 +27,7 @@ My LeetCode.com problem submissions
 | [0229-majority-element-ii](https://github.com/Pranay2969/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pranay2969/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ My LeetCode.com problem submissions
 | [0229-majority-element-ii](https://github.com/Pranay2969/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pranay2969/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
@@ -102,6 +104,7 @@ My LeetCode.com problem submissions
 | [0229-majority-element-ii](https://github.com/Pranay2969/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pranay2969/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -132,6 +135,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +159,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pranay2969/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -178,4 +183,16 @@ My LeetCode.com problem submissions
 | ------- |
 | [0050-powx-n](https://github.com/Pranay2969/leetcode-submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Pranay2969/leetcode-submissions/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
