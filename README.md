@@ -13,6 +13,7 @@ My LeetCode.com problem submissions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Pranay2969/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Pranay2969/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pranay2969/leetcode-submissions/tree/master/0056-merge-intervals) |
@@ -39,6 +40,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0001-two-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranay2969/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Pranay2969/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Pranay2969/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranay2969/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
@@ -195,4 +197,8 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Pranay2969/leetcode-submissions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
