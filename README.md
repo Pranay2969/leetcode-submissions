@@ -26,6 +26,7 @@ My LeetCode.com problem submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranay2969/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pranay2969/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pranay2969/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
@@ -86,6 +87,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0035-search-insert-position](https://github.com/Pranay2969/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranay2969/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -129,6 +131,7 @@ My LeetCode.com problem submissions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pranay2969/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranay2969/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
@@ -142,6 +145,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranay2969/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
