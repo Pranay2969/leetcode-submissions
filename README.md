@@ -18,6 +18,7 @@ My LeetCode.com problem submissions
 | [0036-valid-sudoku](https://github.com/Pranay2969/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Pranay2969/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Pranay2969/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Pranay2969/leetcode-submissions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Pranay2969/leetcode-submissions/tree/master/0075-sort-colors) |
@@ -161,6 +162,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -223,4 +225,5 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranay2969/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
