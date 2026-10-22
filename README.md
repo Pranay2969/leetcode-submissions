@@ -36,6 +36,7 @@ My LeetCode.com problem submissions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranay2969/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0682-baseball-game) |
+| [0875-koko-eating-bananas](https://github.com/Pranay2969/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -91,6 +92,7 @@ My LeetCode.com problem submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranay2969/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/Pranay2969/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
