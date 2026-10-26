@@ -39,6 +39,7 @@ My LeetCode.com problem submissions
 | [0560-subarray-sum-equals-k](https://github.com/Pranay2969/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Pranay2969/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Pranay2969/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -224,6 +225,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pranay2969/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Pranay2969/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Pranay2969/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -241,6 +243,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranay2969/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Pranay2969/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Pranay2969/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
