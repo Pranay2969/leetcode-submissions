@@ -27,6 +27,7 @@ My LeetCode.com problem submissions
 | [0152-maximum-product-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranay2969/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Pranay2969/leetcode-submissions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Pranay2969/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranay2969/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Pranay2969/leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -200,6 +201,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranay2969/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Pranay2969/leetcode-submissions/tree/master/0200-number-of-islands) |
 ## Recursion
 |  |
 | ------- |
@@ -221,6 +223,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pranay2969/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/Pranay2969/leetcode-submissions/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -237,6 +240,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranay2969/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Pranay2969/leetcode-submissions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -248,6 +252,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranay2969/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Pranay2969/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranay2969/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranay2969/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
