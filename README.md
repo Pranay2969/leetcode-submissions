@@ -230,6 +230,7 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranay2969/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Pranay2969/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,4 +239,13 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranay2969/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Pranay2969/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Pranay2969/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Pranay2969/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
