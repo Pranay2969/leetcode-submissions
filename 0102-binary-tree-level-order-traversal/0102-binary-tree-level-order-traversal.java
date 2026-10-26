@@ -21,27 +21,27 @@ class Solution {
             return result;
         }
 
-        Queue<TreeNode> q = new LinkedList<>();
+        Queue<TreeNode> q = new ArrayDeque<>();
         q.offer(root);
 
         while(!q.isEmpty()) {
-            int levelSize = q.size();
-            List<Integer> currentLevel = new ArrayList<>();
+            int size = q.size();
+            List<Integer> level = new ArrayList<>();
 
-            for(int i = 0; i < levelSize; i++) {
+            for(int i = 0; i < size; i++) {
                 TreeNode curr = q.poll();
-                currentLevel.add(curr.val);
+                level.add(curr.val);
 
                 if(curr.left != null) {
                     q.offer(curr.left);
                 }
-                
+
                 if(curr.right != null) {
                     q.offer(curr.right);
                 }
             }
 
-            result.add(currentLevel);
+            result.add(level);
         }
 
         return result;
