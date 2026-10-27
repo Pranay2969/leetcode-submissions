@@ -10,9 +10,7 @@ class Solution {
             currSum += num;
 
             int diff = currSum - k;
-            if(map.containsKey(diff)) {
-                count += map.get(diff);
-            }
+            count += map.getOrDefault(diff, 0);
 
             map.put(currSum, map.getOrDefault(currSum, 0) + 1);
         }
