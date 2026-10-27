@@ -34,6 +34,7 @@ My LeetCode.com problem submissions
 | [0229-majority-element-ii](https://github.com/Pranay2969/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pranay2969/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/Pranay2969/leetcode-submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Pranay2969/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranay2969/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranay2969/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -166,6 +167,7 @@ My LeetCode.com problem submissions
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Pranay2969/leetcode-submissions/tree/master/0322-coin-change) |
 ## Stack
 |  |
 | ------- |
@@ -244,6 +246,7 @@ My LeetCode.com problem submissions
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranay2969/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Pranay2969/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pranay2969/leetcode-submissions/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/Pranay2969/leetcode-submissions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Pranay2969/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -288,4 +291,12 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pranay2969/leetcode-submissions/tree/master/0207-course-schedule) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pranay2969/leetcode-submissions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pranay2969/leetcode-submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
