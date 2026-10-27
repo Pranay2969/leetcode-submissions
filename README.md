@@ -102,6 +102,7 @@ My LeetCode.com problem submissions
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranay2969/leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Pranay2969/leetcode-submissions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Pranay2969/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Pranay2969/leetcode-submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Pranay2969/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pranay2969/leetcode-submissions/tree/master/0268-missing-number) |
@@ -166,6 +167,7 @@ My LeetCode.com problem submissions
 | [0032-longest-valid-parentheses](https://github.com/Pranay2969/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pranay2969/leetcode-submissions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Pranay2969/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Pranay2969/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Pranay2969/leetcode-submissions/tree/master/0322-coin-change) |
 ## Stack
@@ -299,4 +301,8 @@ My LeetCode.com problem submissions
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Pranay2969/leetcode-submissions/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Pranay2969/leetcode-submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
